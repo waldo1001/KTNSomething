@@ -1,0 +1,27 @@
+{
+  "id": "6200558a-57b3-4e7f-b425-da49bb0de541",
+  "name": "KTNSomething",
+  "publisher": "Default publisher",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "14.0.0.0",
+  "application": "14.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "contextSensitiveHelpUrl": "https://KTNSomething.com/help/",
+  "showMyCode": true,
+  "runtime": "3.0",
+  "features": ["TranslationFile"]
+}
